@@ -1,0 +1,67 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.36.32535.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/syedu/downloads/registration/registration/program.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "7e3bcca28327a140c3ff2bf59307e6f4fc281d6ebb927d6d60f0d4746cea88a9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/syedu/downloads/registration/registration/loginform.h"
+          },
+          "hashes": {
+            "sha-256": "534315f6f09972839f0b5a8d5caafdbe1578936e55223e915f0a4032b9fd60bf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/syedu/downloads/registration/registration/user.h"
+          },
+          "hashes": {
+            "sha-256": "a53bfd4cc8c52d091222653aad3e2e5eec3639ef064e23ab517dbff28c7ceb25"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/syedu/downloads/registration/registration/mainform.h"
+          },
+          "hashes": {
+            "sha-256": "6ad2beb8dfa3c5007ec4f90208af6b171787dd41e0a638e4154ddfc7069d9b24"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/syedu/downloads/registration/registration/registerform.h"
+          },
+          "hashes": {
+            "sha-256": "6c621cc6031cf7551aec3212050d31f1512a4b9de1376b4aaee006ef4f55f035"
+          }
+        }
+      ]
+    }
+  ]
+}

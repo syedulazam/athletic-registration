@@ -1,0 +1,9 @@
+C:\Users\syedu\Downloads\Registration\Registration\x64\Debug\Registration.vcxproj.AssemblyReference.cache
+C:\Users\syedu\Downloads\Registration\Registration\x64\Debug\Registration.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\syedu\Downloads\Registration\Registration\x64\Debug\Registration.RegisterForm.resources
+C:\Users\syedu\Downloads\Registration\Registration\x64\Debug\Registration.vcxproj.GenerateResource.cache
+C:\Users\syedu\Downloads\Registration\Registration\x64\Debug\Registration.LoginForm.resources
+C:\Users\syedu\Downloads\Registration\Registration\x64\Debug\Registration.MainForm.resources
+C:\Users\syedu\Downloads\Registration\x64\Debug\Registration.exe.lastcodeanalysissucceeded
+C:\Users\syedu\Downloads\Registration\x64\Debug\Registration.exe.CodeAnalysisLog.xml
+C:\Users\syedu\Downloads\Registration\Registration\x64\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,0 +1,18 @@
+﻿  LoginForm.cpp
+C:\Users\syedu\Downloads\Registration\Registration\LoginForm.h(226,21): warning C4101: 'e': unreferenced local variable
+  MainForm.cpp
+  Program.cpp
+C:\Users\syedu\Downloads\Registration\Registration\LoginForm.h(226,21): warning C4101: 'e': unreferenced local variable
+C:\Users\syedu\Downloads\Registration\Registration\RegisterForm.h(344,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\syedu\Downloads\Registration\Registration\Program.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  RegisterForm.cpp
+C:\Users\syedu\Downloads\Registration\Registration\RegisterForm.h(344,21): warning C4101: 'ex': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Registration.vcxproj -> C:\Users\syedu\Downloads\Registration\x64\Debug\Registration.exe
+  Running Code Analysis...
+MSBUILD : warning CA1016: Microsoft.Design : Add an AssemblyVersion attribute to 'Registration.exe'.
+C:\Users\syedu\Downloads\Registration\Registration\Program.cpp(10): warning CA2232: Microsoft.Usage : Mark the entry point method 'Global::main(array<String^>^)' in assembly 'Registration.exe' with an STAThreadAttribute.
+  Code Analysis Complete -- 0 error(s), 2 warning(s)
